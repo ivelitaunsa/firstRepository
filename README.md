@@ -71,7 +71,7 @@
 
 
 
-<table width="100%">
+<table style="display: block" width="100%">
 <theader>
 <tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>
@@ -80,7 +80,6 @@
 <ul>
 <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
 <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
-<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<p>
 </ul>
 </td>
 <tr>

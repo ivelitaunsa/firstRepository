@@ -59,9 +59,9 @@
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
-<tr><td>III. CONCLUSIONES</td></td></tr>
+<tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td colspan="6">III. CONCLUSIONES</td></td></tr>
 </tdbody>
 </table>
 
@@ -70,7 +70,7 @@
 <tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
-<tr><td></td></tr>
+<tr><td colspan="6"></td></tr>
 </tdbody>
 </table>
 
@@ -79,7 +79,7 @@
 <tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>
 <tbody>
-<tr><td></td></tr>
+<tr><td colspan="6"></td></tr>
 </tdbody>
 </table>
 

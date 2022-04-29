@@ -54,7 +54,7 @@
 </tdbody>
 </table>
 
-<table>
+<table style="width: 100%">
 <theader>
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
@@ -65,7 +65,7 @@
 </tdbody>
 </table>
 
-<table>
+<table style="width: 100%">
 <theader>
 <tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
@@ -74,7 +74,7 @@
 </tdbody>
 </table>
 
-<table>
+<table style="width: 100%">
 <theader>
 <tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>

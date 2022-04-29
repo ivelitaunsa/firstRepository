@@ -20,8 +20,8 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
+<span>(formato estudiante)</span>
 </div>
 
 
@@ -53,3 +53,33 @@
 </<tr>
 </tdbody>
 </table>
+
+<table>
+<theader>
+<tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
+</theader>
+<tbody>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td>III. CONCLUSIONES</td></td></tr>
+</tdbody>
+</table>
+
+<table>
+<theader>
+<tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td></td></tr>
+</tdbody>
+</table>
+
+<table>
+<theader>
+<tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
+</theader>
+<tbody>
+<tr><td></td></tr>
+</tdbody>
+</table>
+

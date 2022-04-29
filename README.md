@@ -55,7 +55,7 @@
 </table>
 
 <div>
-<table border="1" width="100%">
+<table width="100%">
 <theader>
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
@@ -68,11 +68,9 @@
 </div>
 
 <div>
-<table border="1" width="100%">
+<table width="100%">
 <theader>
-<tr><th>
-<p>RETROALIMENTACIÓN GENERAL</p>
-</th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
@@ -81,13 +79,15 @@
 </div>
 
 <div>
-<table border="1" width="100%">
+<table width="100%">
 <theader>
 <tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
-<tr></tr>
+<tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+</tr>
 </tdbody>
 </table>
-</S>
+</div>

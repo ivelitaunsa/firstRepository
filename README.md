@@ -80,9 +80,10 @@
 <ul>
 <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
 <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<p>
 </ul>
 </td>
-</<tr>
+<tr>
 </tr>
 </tdbody>
 </table>

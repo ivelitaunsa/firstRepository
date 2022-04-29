@@ -76,7 +76,7 @@
 <tr><th colspan="6">REFERENCIAS BIBLIOGRÁFICAS</th></tr>
 </theader>
 <tbody>
-<<tr><td>
+<tr><td>
 <ul>
 <li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
 <li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>

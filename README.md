@@ -70,7 +70,9 @@
 <div>
 <table border="1" width="100%">
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+<tr><th>
+<p>RETROALIMENTACIÓN GENERAL</p>
+</th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
